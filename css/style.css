@@ -1,0 +1,44 @@
+.products {
+  margin-top:25px;
+}
+
+#informacion {
+  margin-right: 3px;
+  display: block;
+}
+
+#btn {
+	margin-bottom: 20px;
+}
+
+#enc {
+	margin-top: 20px;
+}
+
+.col-xs-6 { margin-bottom: 20px;}
+
+.btn-primary {margin: 0px 5px;}
+
+.modal-title { font-weight: bold;}
+
+/* Agrega un espacio a la izquierda y a la derecha del contenido de las imágenes */
+.thumbnail{
+   padding: 0px 20px;
+}
+
+#home{
+  margin: 10px 10px;
+  text-align: justify;
+}
+
+.panel-default{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+@media (max-width: 992px){
+  #buscador {
+    
+     margin-bottom: 20px;
+  }
+}
